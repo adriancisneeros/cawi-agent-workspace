@@ -1,0 +1,5 @@
+timestamp,total_nodos,nodos_exitosos,nodos_fallidos,tokens_totales,latencia_promedio_ms,pico_memoria_mb,errores
+2026-11-08 15:28:43,2,1,1,240,28.0,1024,CUDA OOM
+2026-11-08 15:29:34,2,1,1,240,28.0,1024,CUDA OOM
+2026-11-08 17:11:36,3,2,1,1140,41.0,720,API Rate Limit Exceeded
+2026-11-08 17:24:29,2,2,0,500,18.5,410,NINGUNO
